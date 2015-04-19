@@ -1,8 +1,7 @@
 Puzzles Polynomial System Generator
 ====
 
-Supplemental Matlab code for the paper ["A Global Approach for Solving Edge-Matching Puzzles"]()
-A Matlab implementation of the paper ["Controlling Singular Values with Semidefinite Programming"](http://www.wisdom.weizmann.ac.il/~shaharko/projects/GlobalPuzzles.pdf).
+Supplemental Matlab code for the paper ["A Global Approach for Solving Edge-Matching Puzzles"](http://www.wisdom.weizmann.ac.il/~shaharko/projects/GlobalPuzzles.pdf).
 
 ----
 This package computes the polynomial system corresponding to a random 2d square tiling puzzle (as described in the paper). 
